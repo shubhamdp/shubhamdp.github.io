@@ -1,5 +1,5 @@
 ```mermaid
-flowchart LR
+flowchart TD
 
     subgraph Field["Glacial Lake Monitoring Site"]
         A[Water Level Sensor]
